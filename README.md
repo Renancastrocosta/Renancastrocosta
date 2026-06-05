@@ -39,41 +39,19 @@ Acredito em código **limpo, documentado e testável**. Não construo apenas tel
 ### Backend
 
 <p align="left">
-  <img align="top" src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS"/><br/><sub><b>NestJS</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br/><sub><b>Java</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br/><sub><b>Python</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub>
+  <img src="./assets/backend-stack.svg" alt="NestJS, Spring Boot, Java, Python e PostgreSQL"/>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img align="top" src="https://skillicons.dev/icons?i=react" height="48" alt="React"/><br/><sub><b>React</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite"/><br/><sub><b>Vite</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind CSS</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" width="48" alt="TanStack Query"/><br/><sub><b>TanStack Query</b></sub>
+  <img src="./assets/frontend-stack.svg" alt="React, TypeScript, Vite, Tailwind CSS e TanStack Query"/>
 </p>
 
 ### DevOps & Qualidade
 
 <p align="left">
-  <img align="top" src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/><br/><sub><b>Docker</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx"/><br/><sub><b>Nginx</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://cdn.simpleicons.org/vitest/6E9F18" height="48" width="48" alt="Vitest"/><br/><sub><b>Vitest</b></sub>
+  <img src="./assets/devops-stack.svg" alt="Docker, GitHub Actions, Nginx e Vitest"/>
 </p>
 
 ---
