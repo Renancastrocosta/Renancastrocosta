@@ -39,20 +39,20 @@ Acredito em código **limpo, documentado e testável**. Não construo apenas tel
 ### Backend
 
 <p align="left">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></td>
     </tr>
     <tr>
-      <td align="center"><sub><b>NestJS</b></sub></td>
-      <td align="center"><sub><b>Spring Boot</b></sub></td>
-      <td align="center"><sub><b>Java</b></sub></td>
-      <td align="center"><sub><b>Python</b></sub></td>
-      <td align="center"><sub><b>PostgreSQL</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>NestJS</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Spring Boot</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Java</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Python</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>PostgreSQL</b></sub></td>
     </tr>
   </table>
 </p>
@@ -60,20 +60,20 @@ Acredito em código **limpo, documentado e testável**. Não construo apenas tel
 ### Frontend
 
 <p align="left">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/></td>
-      <td align="center" width="110"><img src="https://tanstack.com/images/logos/logo-color-banner-100.png" height="48" width="48" alt="TanStack Query"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://tanstack.com/images/logos/logo-color-banner-100.png" height="48" width="48" alt="TanStack Query"/></td>
     </tr>
     <tr>
-      <td align="center"><sub><b>React</b></sub></td>
-      <td align="center"><sub><b>TypeScript</b></sub></td>
-      <td align="center"><sub><b>Vite</b></sub></td>
-      <td align="center"><sub><b>Tailwind CSS</b></sub></td>
-      <td align="center"><sub><b>TanStack Query</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>React</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>TypeScript</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Vite</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Tailwind CSS</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>TanStack Query</b></sub></td>
     </tr>
   </table>
 </p>
@@ -81,18 +81,18 @@ Acredito em código **limpo, documentado e testável**. Não construo apenas tel
 ### DevOps & Qualidade
 
 <p align="left">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx"/></td>
-      <td align="center" width="110"><img src="https://cdn.simpleicons.org/vitest/6E9F18" height="48" width="48" alt="Vitest"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx"/></td>
+      <td align="center" width="110" style="border: none;"><img src="https://cdn.simpleicons.org/vitest/6E9F18" height="48" width="48" alt="Vitest"/></td>
     </tr>
     <tr>
-      <td align="center"><sub><b>Docker</b></sub></td>
-      <td align="center"><sub><b>GitHub Actions</b></sub></td>
-      <td align="center"><sub><b>Nginx</b></sub></td>
-      <td align="center"><sub><b>Vitest</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Docker</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>GitHub Actions</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Nginx</b></sub></td>
+      <td align="center" style="border: none;"><sub><b>Vitest</b></sub></td>
     </tr>
   </table>
 </p>
