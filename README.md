@@ -18,11 +18,18 @@ Sou **Renan Castro**, desenvolvedor **Full Stack** em formação, com raízes na
 
 Acredito em código **limpo, documentado e testável**. Não construo apenas telas: penso em camadas, contratos de API, CI/CD, Docker e na jornada completa do usuário.
 
-```text
-  Gestor Público          Desenvolvedor
-       │                       │
-       └──────►  Código com propósito  ◄──────┘
-              (impacto real no serviço público)
+```mermaid
+flowchart TB
+    GP[Gestor Público]
+    DEV[Desenvolvedor]
+    CODE["Código com propósito<br/>(impacto real no serviço público)"]
+
+    GP --> CODE
+    DEV --> CODE
+
+    style GP fill:#1E293B,stroke:#334155,color:#F8FAFC
+    style DEV fill:#1E293B,stroke:#334155,color:#F8FAFC
+    style CODE fill:#0F172A,stroke:#22C55E,color:#F8FAFC
 ```
 
 | Traço marcante | Como aparece no meu trabalho |
