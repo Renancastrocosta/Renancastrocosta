@@ -37,24 +37,65 @@ Acredito em código **limpo, documentado e testável**. Não construo apenas tel
 ## Stack & Ferramentas
 
 ### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<p align="left">
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></td>
+    </tr>
+    <tr>
+      <td align="center"><sub><b>NestJS</b></sub></td>
+      <td align="center"><sub><b>Spring Boot</b></sub></td>
+      <td align="center"><sub><b>Java</b></sub></td>
+      <td align="center"><sub><b>Python</b></sub></td>
+      <td align="center"><sub><b>PostgreSQL</b></sub></td>
+    </tr>
+  </table>
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+<p align="left">
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/></td>
+      <td align="center" width="110"><img src="https://tanstack.com/images/logos/logo-color-banner-100.png" height="48" width="48" alt="TanStack Query"/></td>
+    </tr>
+    <tr>
+      <td align="center"><sub><b>React</b></sub></td>
+      <td align="center"><sub><b>TypeScript</b></sub></td>
+      <td align="center"><sub><b>Vite</b></sub></td>
+      <td align="center"><sub><b>Tailwind CSS</b></sub></td>
+      <td align="center"><sub><b>TanStack Query</b></sub></td>
+    </tr>
+  </table>
+</p>
 
 ### DevOps & Qualidade
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+<p align="left">
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx"/></td>
+      <td align="center" width="110"><img src="https://cdn.simpleicons.org/vitest/6E9F18" height="48" width="48" alt="Vitest"/></td>
+    </tr>
+    <tr>
+      <td align="center"><sub><b>Docker</b></sub></td>
+      <td align="center"><sub><b>GitHub Actions</b></sub></td>
+      <td align="center"><sub><b>Nginx</b></sub></td>
+      <td align="center"><sub><b>Vitest</b></sub></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
