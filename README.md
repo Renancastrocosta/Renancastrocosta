@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Renan+Castro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Gestor+P%C3%BAblico+%E2%86%92+Tecnologia;Cuiab%C3%A1-MT%2C+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Renan+Castro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Gestor+P%C3%BAblico+%E2%86%92+Tecnologia;Cuiab%C3%A1-MT%2C+Brasil" alt="Typing SVG" />
 
 <br/>
 
@@ -96,10 +96,10 @@ npm install && npm run dev   # demo em http://localhost:5173
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Renancastrocosta&show_icons=true&theme=slate&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=F8FAFC&bg_color=0F172A" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renancastrocosta&layout=compact&theme=slate&hide_border=true&title_color=22C55E&text_color=F8FAFC&bg_color=0F172A" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Renancastrocosta&show_icons=true&theme=slate&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=F8FAFC&bg_color=0F172A" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Renancastrocosta&layout=compact&theme=slate&hide_border=true&title_color=22C55E&text_color=F8FAFC&bg_color=0F172A" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Renancastrocosta&theme=slate&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=F8FAFC&dates=94A3B8&background=0F172A" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Renancastrocosta&theme=slate&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=F8FAFC&dates=94A3B8&background=0F172A" alt="GitHub Streak"/>
 
 </div>
 
