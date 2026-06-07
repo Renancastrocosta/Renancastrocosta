@@ -97,6 +97,22 @@ npm install && npm run dev   # demo em http://localhost:5173
 
 ---
 
+### [automatizador-moodle-ansible](https://github.com/Renancastrocosta/automatizador-moodle-ansible)
+
+> Automatizador de instalação do **Moodle** em **Ubuntu Server 22.04 LTS** — provisiona a VM, sobe a stack (Moodle + PostgreSQL + Nginx) e aplica hardening via Ansible e Docker.
+
+| | |
+|---|---|
+| **Stack** | Ansible · Docker · Ubuntu 22.04 · Nginx · PostgreSQL · Moodle 4.5 · Shell |
+| **Destaques** | Instalação one-shot (`./install.sh`) · Configuração via `.env` · SSL Let's Encrypt · Backup PostgreSQL + moodledata · Hardening Docker/SSH |
+| **Padrões** | Roles Ansible modulares · Inventory gerado do `.env` · Proxy Nginx host → Docker Compose |
+
+```bash
+cp .env.example .env && ./install.sh   # VM Ubuntu 22.04 + SSH → Moodle no ar
+```
+
+---
+
 ## GitHub Stats
 
 <div align="center">
