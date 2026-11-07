@@ -130,10 +130,10 @@ cp .env.example .env && ./install.sh   # VM Ubuntu 22.04 + SSH → Moodle no ar
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Renancastrocosta&show_icons=true&theme=slate&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=F8FAFC&bg_color=0F172A" alt="GitHub Stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Renancastrocosta&layout=compact&theme=slate&hide_border=true&title_color=22C55E&text_color=F8FAFC&bg_color=0F172A" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Renancastrocosta&show_icons=true&theme=slate&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&ring_color=22C55E&bg_color=0F172A" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Renancastrocosta&layout=compact&theme=slate&hide_border=true&title_color=22C55E&text_color=FFFFFF&bg_color=0F172A" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Renancastrocosta&theme=slate&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=F8FAFC&dates=94A3B8&background=0F172A" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Renancastrocosta&theme=slate&hide_border=true&background=0F172A&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22C55E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
