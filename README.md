@@ -52,7 +52,7 @@ flowchart TB
 ### Frontend
 
 <p align="left">
-  <img src="./assets/frontend-stack.svg" alt="React, TypeScript, Vite, Tailwind CSS e TanStack Query"/>
+  <img src="./assets/frontend-stack.svg" alt="Angular, React, TypeScript, Vite, Tailwind CSS e TanStack Query"/>
 </p>
 
 ### DevOps & Qualidade
@@ -64,6 +64,19 @@ flowchart TB
 ---
 
 ## Projetos em destaque
+
+### [CRM Vértice Seminovos](https://verticeseminovos.com.br)
+
+> Plataforma **CRM + marketplace** para a **Vértice Seminovos** — portal público de seminovos, backoffice comercial e atendimento omnichannel.
+
+| | |
+|---|---|
+| **Stack** | Angular 19 · NestJS 11 · TypeScript · PostgreSQL · Redis · MinIO · Docker · Nginx |
+| **Destaques** | Catálogo + funil de leads · Propostas com token · Contratos DOCX/PDF · Extensão WhatsApp Web · JWT + RBAC · CI/CD + deploy com TLS |
+| **Padrões** | Monorepo (web / api / extensão) · Módulos Nest por domínio · SPA + reverse proxy · Guards JWT/RBAC · máquina de estados Lead/Proposta/Estoque |
+| **Consulta** | [Site em produção](https://verticeseminovos.com.br) · código-fonte privado (projeto de cliente) |
+
+---
 
 ### [artistas-fullstack](https://github.com/Renancastrocosta/artistas-fullstack)
 
