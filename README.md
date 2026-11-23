@@ -78,51 +78,16 @@ flowchart TB
 
 ---
 
-### [artistas-fullstack](https://github.com/Renancastrocosta/artistas-fullstack)
+### [Sistema de Compras Corporativo](https://github.com/Renancastrocosta/portfolio-sistema-compras-corporativo)
 
-> Catálogo full stack de **artistas e álbuns** — API REST + SPA com autenticação JWT, WebSocket em tempo real e upload de capas.
-
-| | |
-|---|---|
-| **Stack** | Java 21 · Spring Boot 3 · React 19 · TypeScript · PostgreSQL · MinIO |
-| **Destaques** | JWT + refresh token · STOMP/SockJS · URLs pré-assinadas S3 · Rate limit (Bucket4j) · Flyway · CI/CD + deploy SSH |
-| **Padrões** | Camadas (web → service → repository) · Facade no front · RxJS `BehaviorSubject` · Lazy loading de rotas |
-
-```bash
-docker compose up --build   # stack completo: API + SPA + Postgres + MinIO
-```
-
----
-
-### [React-Enterprise-Starter](https://github.com/Renancastrocosta/React-Enterprise-Starter)
-
-> Template de portfólio que demonstra **padrões frontend corporativos** em React — arquitetura por features, server state e design system.
+> Case study full stack de **compras corporativas** — solicitações, fluxo de aprovação, anexos em S3 e auditoria (documentação + snippets ilustrativos).
 
 | | |
 |---|---|
-| **Stack** | React 19 · TypeScript · TanStack Query 5 · shadcn/ui · Tailwind 4 · Zod |
-| **Destaques** | Guards por permissão · Mock API offline · Interceptor 401 · AlertDialog · Vitest + GitHub Actions |
-| **Padrões** | `services` → `queries` → `mutations` → `features` · Context API auth · Formulários tipados RHF + Zod |
-
-```bash
-npm install && npm run dev   # demo em http://localhost:5173
-```
-
----
-
-### [automatizador-moodle-ansible](https://github.com/Renancastrocosta/automatizador-moodle-ansible)
-
-> Automatizador de instalação do **Moodle** em **Ubuntu Server 22.04 LTS** — provisiona a VM, sobe a stack (Moodle + PostgreSQL + Nginx) e aplica hardening via Ansible e Docker.
-
-| | |
-|---|---|
-| **Stack** | Ansible · Docker · Ubuntu 22.04 · Nginx · PostgreSQL · Moodle 4.5 · Shell |
-| **Destaques** | Instalação one-shot (`./install.sh`) · Configuração via `.env` · SSL Let's Encrypt · Backup PostgreSQL + moodledata · Hardening Docker/SSH |
-| **Padrões** | Roles Ansible modulares · Inventory gerado do `.env` · Proxy Nginx host → Docker Compose |
-
-```bash
-cp .env.example .env && ./install.sh   # VM Ubuntu 22.04 + SSH → Moodle no ar
-```
+| **Stack** | NestJS · TypeORM · PostgreSQL · BullMQ · React 19 · TanStack Query · Zod · AWS S3/CloudFront |
+| **Destaques** | Máquina de estados de aprovação · Uploads com URLs pré-assinadas · RBAC alinhado front ↔ API · Jobs OCR via fila · ADRs e docs por perfil |
+| **Padrões** | Monolito modular Nest · Features no front · `PermissionRoute` + guards · Deploy API (ECS) + SPA estática (S3/CloudFront) |
+| **Consulta** | [Repositório no GitHub](https://github.com/Renancastrocosta/portfolio-sistema-compras-corporativo) · case documental anônimo |
 
 ---
 
